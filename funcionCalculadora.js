@@ -10,3 +10,9 @@ function dividir(numero1, numero2){
     return numero1 / numero2
 }
 console.log(6/2);
+function suma (n1,n2){
+    return n1 + n2
+}
+function resta (n1,n2){
+    return n1 - n2
+}
