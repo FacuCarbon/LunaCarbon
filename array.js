@@ -5,4 +5,4 @@ let tiempo = ['Esta parcialmente nublado, con un poco de humedad'];
 
 let arrayTiempo = [...array, ...tiempo]
 
-console.log(arrayTiempo);
+console.log('Hoy es ' +array + ' y el tiempo ' +tiempo)
